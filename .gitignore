@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Archives generated during packaging
+*.tmp.zip
+*.bak.zip
+
+# Local build outputs
+build/
+dist/
+.tmp/
+
+# Logs
+*.log
